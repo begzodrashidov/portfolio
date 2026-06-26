@@ -6,7 +6,7 @@ const PROJECTS = [
     description: 'An API testing tool built for trying out endpoints quickly during development.',
     tags: ['React', 'Vite', 'Tailwind', 'SCSS'],
     demo: 'https://apiforge.vercel.app/',
-    github: 'https://github.com/begzodrashidov/apiforge',
+    github: 'https://github.com/begzodrashidov/apiforgegit push origin main',
   },
   {
     title: 'Meridian Estates',
